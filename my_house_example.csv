@@ -1,0 +1,4 @@
+area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea
+7000,5,6,4,yes,no,no,yes,yes,2,no
+10000,5,2,4,yes,yes,yes,yes,yes,5,yes
+2000,5,3,5,yes,yes,no,no,no,5,no
