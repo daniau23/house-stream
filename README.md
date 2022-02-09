@@ -20,8 +20,6 @@ Also the app predicts the price of a house using the following input parameters;
 10. Parking
 11. Prefarea
 
-This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
-
 The web app was built in Python using the following libraries:
 * streamlit
 * pandas
